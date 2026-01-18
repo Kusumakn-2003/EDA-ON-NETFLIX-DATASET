@@ -69,20 +69,6 @@ The analysis helps in identifying insights related to movies and TV shows, genre
 
 ---
 
-## 📁 Project Structure
-
-```
-├── Netflix_EDA.ipynb
-├── netflix_titles.csv
-├── images/
-│   ├── movies_vs_tvshows.png
-│   ├── genre_distribution.png
-│   └── release_year_trend.png
-└── README.md
-```
-
----
-
 ## 🚀 Conclusion
 
 This project demonstrates practical **Data Analyst skills**, including data cleaning, exploratory analysis, and visualization. It provides meaningful insights into Netflix content trends and serves as a strong academic project for aspiring data analysts.
